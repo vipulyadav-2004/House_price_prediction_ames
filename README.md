@@ -14,4 +14,7 @@ This project uses advanced regression techniques to predict house prices with **
 | **Linear Regression** | 0.8952 |
 | **Random Forest** | **0.9127** |
 
+<img width="751" height="478" alt="image" src="https://github.com/user-attachments/assets/aa1ad6af-e66d-4582-9de2-3cadc0873ea9" />
+
+
 The Random Forest model captures non-linear relationships better, resulting in more accurate predictions for high-value homes.
